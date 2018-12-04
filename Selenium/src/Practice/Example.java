@@ -19,7 +19,7 @@ public class Example {
 public void m1()
 {
 	
-		System.out.println("hellos");
+		System.out.println("hellosggg");
 		
 	}
 @AfterMethod
